@@ -88,11 +88,15 @@ button {
   color: var(--color-text-blacklight);
   font-weight: 500;
   line-height: 1.14;
+  padding-top: 15px;
+  padding-bottom: 15px;
 }
 
 .contact-list-item {
   color: var(--color-text-grey);
   font-weight: 500;
+  padding-top: 15px;
+  padding-bottom: 15px;
 }
 
 .menu-list-item.current {
@@ -221,10 +225,11 @@ button {
 
 .team-list-photo {
   display: block;
+  max-width: 100%;
+  height: auto;
 }
 .footer-contact {
   font-weight: 400;
-
   padding-top: 60px;
   padding-bottom: 60px;
 }
@@ -352,6 +357,8 @@ button {
 
 .activity-list-pic {
   display: block;
+  max-width: 100%;
+  height: auto;
 }
 
 .header {
@@ -386,6 +393,8 @@ button {
 
 .portfolio-pic {
   display: block;
+  max-width: 100%;
+  height: auto;
 }
 .portfolio-title {
   padding-top: 20px;
