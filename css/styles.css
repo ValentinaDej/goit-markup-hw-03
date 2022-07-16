@@ -319,6 +319,7 @@ button {
 
 .section-without-bottom {
   padding-top: 94px;
+  padding-bottom: 0px;
 }
 
 .menu {
