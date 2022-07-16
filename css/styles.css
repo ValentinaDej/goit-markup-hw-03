@@ -317,6 +317,10 @@ button {
   padding-bottom: 94px;
 }
 
+.section-without-bottom {
+  padding-top: 94px;
+}
+
 .menu {
   display: flex;
   align-items: center;
